@@ -7,7 +7,9 @@ Data Scientist with strong math background and with an experience, using predict
 - 👯 I’m looking to collaborate on Deep Learning
 - 🤔 I’m looking for help with Image Reconstruction
 - 💬 Ask me about Deep Learning
-- 📫 How to reach me: paulmwaura254@gmail.com
+- 📫 How to reach me: 
+        * paulmwaura254@gmail.com
+        * https://paul-mwaura.github.io/Paul-Mwaura-Portfolio.github.io/
 <br />
 
 ### Languages and Tools:
