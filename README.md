@@ -30,6 +30,37 @@ Data Scientist with strong math background and with an experience, using predict
 <img align="left" alt="Paul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=paul-mwaura&show_icons=true&hide_border=true&hide=contribs&count_private=true&include_all_commits=false" />
 
 
+<a href="https://github.com/paul-mwaura/paul-mwaura">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=paul-mwaura&show_icons=true&count_private=true&theme=dark" />
+</a>
+<a href="https://github.com/paul-mwaura/paul-mwaura">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paul-mwaura&theme=blue-green" alt="Melisa's GitHub Stats" />
+</a>
+
+
+<details>
+  <summary>📃 My Resume</summary>
+
+
+## Education
+
+- 📖 **Data Science**\
+📍 **Moringa School** - Nairobi, Kenya
+<img align="right"
+src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+<img align="right" 
+src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
+<img align="right"
+src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
+<img align="right"
+src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a" />
+
+
+</details>
+
+<br />
+
+
 [pytorch]: https://pytorch.org/
 [django]: https://www.django.com/
 [python]: https://www.python.org
