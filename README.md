@@ -1,3 +1,32 @@
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1504639725590-34d0984388bd?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bWFjaGluZSUyMGxlYXJuaW5nfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" />
+</p>
+
+<h1 align='center'>
+  Hi there <img src="https://user-images.githubusercontent.com/61727167/114547962-cecc6b80-9c67-11eb-9697-b1c5a8c8ff46.gif" width="30px"> I'm Paul Ndirangu.
+</h1>
+
+<h1 align='center'>
+  Machine Learning Engineer||Neural Labs Africa.
+</h1>
+
+<p align='center'>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/melisamichuki/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://open.spotify.com/user/5ugoa7to1isrp099b0lehq4s5?si=42efe51be07a4571">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>     
+  </a>&nbsp;&nbsp;
+  <a href="https://mailhide.io/e/L5WX91q5/">
+    <img src="https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white"/>     
+  </a>&nbsp;&nbsp;
+
+  <a href="https://github.com/Paul-mwaura">
+    <img src="https://img.shields.io/github/followers/paul-mwaura?style=social"/>     
+  </a>&nbsp;&nbsp;
+</p>
+
 ### Hi there 👋
 
 Data Scientist with strong math background and with an experience, using predictive modeling, data processing, and data mining algorithms to solve challenging business problems. Involved in Python open source community and passionate about deep reinforcement learning. 
@@ -8,6 +37,7 @@ Data Scientist with strong math background and with an experience, using predict
 - 🤔 I’m looking for help with Image Reconstruction
 - 💬 Ask me about Deep Learning
 - 📫 How to reach me: 
+>
         * paulmwaura254@gmail.com
         * https://paul-mwaura.github.io/Paul-Mwaura-Portfolio.github.io/
 <br />
