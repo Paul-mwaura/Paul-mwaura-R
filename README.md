@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1504639725590-34d0984388bd?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bWFjaGluZSUyMGxlYXJuaW5nfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" />
+  <img src="https://media.istockphoto.com/photos/circuit-board-picture-id1145585734?k=6&m=1145585734&s=612x612&w=0&h=tVDKe9I2GbQuw6Xt1g2nDG5FIt1Kv_ztBgBLgtE-FNY=" />
 </p>
 
 <h1 align='center'>
@@ -12,14 +12,14 @@
 
 <p align='center'>
   </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/melisamichuki/">
+  <a href="https://www.linkedin.com/in/paul-ndirangu/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://open.spotify.com/user/5ugoa7to1isrp099b0lehq4s5?si=42efe51be07a4571">
+  <a href="https://open.spotify.com/user/31t4ykrih5p4wqjtk2ttto6lgo7m">
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>     
   </a>&nbsp;&nbsp;
-  <a href="https://mailhide.io/e/L5WX91q5/">
-    <img src="https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white"/>     
+  <a href="https://paul-mwaura.github.io/Paul-Mwaura-Portfolio.github.io/">
+    <img src="https://images.unsplash.com/photo-1596265371388-43edbaadab94?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cG9ydGZvbGlvJTIwbG9nb3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" width=80 height=30/>     
   </a>&nbsp;&nbsp;
 
   <a href="https://github.com/Paul-mwaura">
@@ -36,23 +36,7 @@ Data Scientist with strong math background and with an experience, using predict
 - 👯 I’m looking to collaborate on Deep Learning
 - 🤔 I’m looking for help with Image Reconstruction
 - 💬 Ask me about Deep Learning
-- 📫 How to reach me: 
->
-        * paulmwaura254@gmail.com
-        * https://paul-mwaura.github.io/Paul-Mwaura-Portfolio.github.io/
-<br />
-
-### Languages and Tools:
-- &ensp; Pytorch [<img align="left" alt="Pytorch" width="26px" src="https://avatars2.githubusercontent.com/u/21003710?s=400&v=4" />][pytorch]<br><br />
-
-- &ensp; Powerbi [<img align="left" alt="powerbi" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Power_bi_logo_black.svg/600px-Power_bi_logo_black.svg.png" />][powerbi]<br><br />
-
-- &ensp; Python [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png" />][python]<br><br />
-
-- &ensp; Django [<img align="left" alt="Django" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/1200px-Django_logo.svg.png" />][django] <br><br />
-
-- &ensp; React [<img align="left" alt="React" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />][react]
-
+- 📫 How to reach me: paulmwaura254@gmail.com
 <br />
 
 ---
@@ -66,8 +50,8 @@ Data Scientist with strong math background and with an experience, using predict
 
 <details>
   <summary>📃 My Resume</summary>
-
-
+---
+  
 ## Education
 
 - 📖 **Data Science**\
@@ -84,14 +68,22 @@ src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=pyth
 
 </details>
 
-<br />
-
+---
 
 [pytorch]: https://pytorch.org/
 [django]: https://www.django.com/
 [python]: https://www.python.org
 [powerbi]: https://powerbi.microsoft.com/en-us/
 [react]: https://react.dev
-<!-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+😄 Pronouns: He
+- ⚡ Fun fact: Still trying to figure out life.
+
+### Languages and Tools:
+&ensp;[<img align="left" alt="Pytorch" width="26px" src="https://avatars2.githubusercontent.com/u/21003710?s=400&v=4" />][pytorch]
+&ensp;[<img align="left" alt="powerbi" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Power_bi_logo_black.svg/600px-Power_bi_logo_black.svg.png" />][powerbi]
+&ensp;[<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png" />][python]
+&ensp;[<img align="left" alt="Django" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/1200px-Django_logo.svg.png" />][django] 
+&ensp; [<img align="left" alt="React" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />][react]
+
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
