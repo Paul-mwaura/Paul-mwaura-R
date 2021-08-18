@@ -7,7 +7,7 @@
 </h1>
 
 <h1 align='center'>
-  Machine Learning Engineer||Neural Labs Africa.
+  Machine Learning Engineer | Neural Labs Africa.
 </h1>
 
 <p align='center'>
@@ -17,9 +17,6 @@
   </a>&nbsp;&nbsp;
   <a href="https://open.spotify.com/user/31t4ykrih5p4wqjtk2ttto6lgo7m">
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>     
-  </a>&nbsp;&nbsp;
-  <a href="https://paul-mwaura.github.io/Paul-Mwaura-Portfolio.github.io/">
-    <img src="https://images.unsplash.com/photo-1596265371388-43edbaadab94?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cG9ydGZvbGlvJTIwbG9nb3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" width=80 height=30/>     
   </a>&nbsp;&nbsp;
 
   <a href="https://github.com/Paul-mwaura">
