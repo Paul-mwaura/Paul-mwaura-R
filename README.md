@@ -7,6 +7,7 @@
 <h1 align='center'>
   Machine Learning Engineer | Neural Labs Africa.
 </h1>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Paul-mwaura" alt="Paul-mwaura" /></a> </p>
 
 <p align='center'>
   </a>&nbsp;&nbsp;
