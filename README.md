@@ -19,7 +19,7 @@
   </a>&nbsp;&nbsp;
 </p>
 
-### Hi again <img src="https://user-images.githubusercontent.com/61727167/114547962-cecc6b80-9c67-11eb-9697-b1c5a8c8ff46.gif" width="30px"> !!
+### Hi again <img src="https://user-images.githubusercontent.com/61727167/114547962-cecc6b80-9c67-11eb-9697-b1c5a8c8ff46.gif" width="30px"> 
 
 Data Scientist with strong math background and with an experience, using predictive modeling, data processing, and data mining algorithms to solve challenging business problems. Involved in Python open source community and passionate about deep reinforcement learning. 
 
