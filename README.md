@@ -66,7 +66,14 @@ src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=pyth
 [powerbi]: https://powerbi.microsoft.com/en-us/
 [react]: https://react.dev
 
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank">
+  <img align="left" alt="Pytorch" width="26px" src="https://avatars2.githubusercontent.com/u/21003710?s=400&v=4" />
+  <img align="left" alt="powerbi" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Power_bi_logo_black.svg/600px-Power_bi_logo_black.svg.png" />
+  <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png" />
+  <img align="left" alt="Django" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/1200px-Django_logo.svg.png" />
+  <img align="left" alt="React" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />
+</p>
 ### Languages and Tools:
 &ensp;[<img align="left" alt="Pytorch" width="26px" src="https://avatars2.githubusercontent.com/u/21003710?s=400&v=4" />][pytorch]
 &ensp;[<img align="left" alt="powerbi" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Power_bi_logo_black.svg/600px-Power_bi_logo_black.svg.png" />][powerbi]
