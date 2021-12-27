@@ -45,13 +45,9 @@ Data Scientist with strong math background and with an experience, using predict
 
 
 <details>
-  <summary>📃 My Resume</summary>
----
+  <summary>📃 My Streak Stats</summary>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Paul-mwaura&" alt="Paul-mwaura" /></p>
   
-## Education
-
-- 📖 **Data Science**\
-📍 **Moringa School** - Nairobi, Kenya
 <img align="right"
 src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 <img align="right" 
@@ -72,8 +68,6 @@ src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=pyth
 [powerbi]: https://powerbi.microsoft.com/en-us/
 [react]: https://react.dev
 
-😄 Pronouns: He
-- ⚡ Fun fact: Still trying to figure out life.
 
 ### Languages and Tools:
 &ensp;[<img align="left" alt="Pytorch" width="26px" src="https://avatars2.githubusercontent.com/u/21003710?s=400&v=4" />][pytorch]
