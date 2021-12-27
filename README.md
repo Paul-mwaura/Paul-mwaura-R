@@ -17,10 +17,6 @@
   <a href="https://www.linkedin.com/in/paul-ndirangu/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />
   </a>&nbsp;&nbsp;
-
-  <a href="https://github.com/Paul-mwaura">
-    <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"/>     
-  </a>&nbsp;&nbsp;
 </p>
 
 ### Hi there 👋
