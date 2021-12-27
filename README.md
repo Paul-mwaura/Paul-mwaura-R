@@ -36,6 +36,7 @@ Data Scientist with strong math background and with an experience, using predict
 <br />
 
 ---
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paul-mwaura&show_icons=true&locale=en&layout=compact" alt="paul-mwaura" /></p>
 
 <img align="left" alt="Paul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=paul-mwaura&show_icons=true&hide_border=true&hide=contribs&count_private=true&include_all_commits=false" />
 
