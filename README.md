@@ -36,15 +36,17 @@ Data Scientist with strong math background and with an experience, using predict
 <br />
 
 ---
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paul-mwaura&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="paul-mwaura" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paul-mwaura&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="paul-mwaura" />
 
 <img align="left" alt="Paul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=paul-mwaura&show_icons=true&hide_border=true&hide=contribs&count_private=true&include_all_commits=false" />
 
 
 
-<details>
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Paul-mwaura&" alt="Paul-mwaura" />
+  </p>
+  <details>
   <summary>📃 My Streak Stats</summary>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Paul-mwaura&" alt="Paul-mwaura" /></p>
   
 <img align="right"
 src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
