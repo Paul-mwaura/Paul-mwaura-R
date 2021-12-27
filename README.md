@@ -60,9 +60,9 @@ src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=pyth
 
 <h3 align="left">Proficient</h3>
 <p align="left">
-  <a href="https://python.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python" width="60" height="50"/> </a> 
-  <a href="https://pytorch.org" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" alt="Pytorch"  width="60" height="50" /> </a> 
-<a href="https://reactjs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="reactjs" width="60" height="50"/> </a>
-  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="django" width="60" height="50"/> </a>
+  <a href="https://python.org" target="_blank"> <img align="right" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python" width="60" height="50"/> </a> 
+  <a href="https://pytorch.org" target="_blank"> <img align="right" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" alt="Pytorch"  width="60" height="50" /> </a> 
+<a href="https://reactjs.org" target="_blank"> <img align="right" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="reactjs" width="60" height="50"/> </a>
+  <a href="https://www.djangoproject.com/" target="_blank"> <img align="right" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="django" width="60" height="50"/> </a>
 </p>
 </details>
