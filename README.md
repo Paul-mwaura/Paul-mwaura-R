@@ -76,11 +76,3 @@ src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=pyth
   <img align="left" alt="Django" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/1200px-Django_logo.svg.png" />
   <img align="left" alt="React" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />
 </p>
-### Languages and Tools:
-&ensp;[<img align="left" alt="Pytorch" width="26px" src="https://avatars2.githubusercontent.com/u/21003710?s=400&v=4" />][pytorch]
-&ensp;[<img align="left" alt="powerbi" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Power_bi_logo_black.svg/600px-Power_bi_logo_black.svg.png" />][powerbi]
-&ensp;[<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png" />][python]
-&ensp;[<img align="left" alt="Django" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/1200px-Django_logo.svg.png" />][django] 
-&ensp; [<img align="left" alt="React" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />][react]
-
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
