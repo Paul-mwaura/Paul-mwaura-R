@@ -46,7 +46,7 @@ Data Scientist with strong math background and with an experience, using predict
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Paul-mwaura&" alt="Paul-mwaura" />
   </p>
   <details>
-  <summary>📃 My Streak Stats</summary>
+  <summary>📃 Languages and Tools:</summary>
   
 <img align="right"
 src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
@@ -56,12 +56,13 @@ src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&
 src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
 <img align="right"
 src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a" />
-</details>
 
-<h3 align="left">Languages and Tools:</h3>
+
+<h3 align="left">Proficient</h3>
 <p align="left">
-  <a href="https://python.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python" width="60" height="40"/> </a> 
-  <a href="https://pytorch.org" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" alt="Pytorch"  width="60" height="40" /> </a> 
-<a href="https://reactjs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="reactjs" width="60" height="40"/> </a>
-  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="django" width="60" height="40"/> </a>
+  <a href="https://python.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python" width="60" height="50"/> </a> 
+  <a href="https://pytorch.org" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" alt="Pytorch"  width="60" height="50" /> </a> 
+<a href="https://reactjs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="reactjs" width="60" height="50"/> </a>
+  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="django" width="60" height="50"/> </a>
 </p>
+</details>
