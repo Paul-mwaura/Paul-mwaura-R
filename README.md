@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://media.istockphoto.com/photos/circuit-board-picture-id1145585734?k=6&m=1145585734&s=612x612&w=0&h=tVDKe9I2GbQuw6Xt1g2nDG5FIt1Kv_ztBgBLgtE-FNY=" />
-</p>
+
 
 <h1 align='center'>
   Hi there <img src="https://user-images.githubusercontent.com/61727167/114547962-cecc6b80-9c67-11eb-9697-b1c5a8c8ff46.gif" width="30px"> I'm Paul Ndirangu.
